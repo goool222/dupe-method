@@ -1,0 +1,3 @@
+while true do
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/goool222/Zino-Hub-Pet-Simulator-x/main/Zino%20Hub%20psx"))()
+     end
